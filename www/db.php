@@ -1,4 +1,5 @@
 <?php
 header ("Access-Control-Allow-Origin: *");
-$con = mysqli_connect("localhost","root","","tugas3") or die ("could not connect database");
+$con = mysqli_connect("localhost","id15158555_tugas3","Nisarahhma03.","tugas3") or die ("could not connect database");
+//please change the username, password and db name//
 ?>
